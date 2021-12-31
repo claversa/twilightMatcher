@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Actual\ Functionality--matches\ traits\ with\ user\ input\r\n\r\n\ @Caroline\ LaVersa\r\n\ @12/27/2021\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n
+comment2.params=
+comment2.target=void\ main()
+comment2.text=\r\n\ Main\ method\ compares\ user\ input\ to\ character\ traits\r\n
+comment3.params=userHair\ charHair
+comment3.target=java.lang.Boolean\ checkHair(java.lang.String,\ java.lang.String)
+comment4.params=userPersonality\ charPersonality
+comment4.target=int\ checkPersonality(java.util.ArrayList,\ java.lang.String[])
+comment5.params=userAge\ charAge
+comment5.target=java.lang.Boolean\ checkAge(int,\ int)
+comment6.params=userGender\ charGender
+comment6.target=java.lang.Boolean\ checkGender(java.lang.String,\ java.lang.String)
+numComments=7
